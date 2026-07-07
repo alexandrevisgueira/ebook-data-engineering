@@ -28,10 +28,12 @@ de proteção de credenciais, prevenção de SQL Injection e gerenciamento de se
 ## Estrutura do repositório
 
 ```
-ebook-data-engineering/
+ebook-engenharia-de-dados/
 │
 ├── README.md
 ├── LICENSE
+├── .gitignore
+├── .env.example
 │
 ├── prompts/
 │   ├── prompt-texto.md
